@@ -9,7 +9,11 @@
 
 # Questão 01 
 
+- ## O objetivo desta primeira questão é configurar o repositório no GitHub que será utilizado para submissão de atividades.
+
+Segue o link do repositório:
 - ## https://github.com/Dheymison201n/dheymisonnunesnuvem20221
 
 # Questão 02
 
+primeiras impressões sobre o curso da AWS Academy
