@@ -17,4 +17,4 @@
 
 ### Primeiras impressões sobre o curso da AWS Academy
 
-A AWS Academy consta com otimos laboratorios que permitem que o estudantes tenha experiência prática em computação na nuvem de forma a permitir ganhar experiência com os serviços de nuvem AWS, em relação ao sistema em si achei um pouco poluido a com interface um pouco retro remetendo a antigas paginas.
+A AWS Academy consta com otimos laboratorios que permitem que o estudantes tenha experiência prática em computação na nuvem de forma a permitir ganhar experiência com os serviços de nuvem AWS, em relação ao sistema em si achei um pouco poluido e com interface um pouco retro remetendo a antigas paginas isso poderia ser melhorado a deixar mais intuitivo.
