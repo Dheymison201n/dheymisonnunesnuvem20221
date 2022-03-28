@@ -2,8 +2,8 @@
 
 ---
 
-- ### Nome Dheymison Nunes Alexandre
-- ### Matrícula 472022
+- ### Nome: Dheymison Nunes Alexandre
+- ### Matrícula: 472022
   
 ---
 
@@ -15,4 +15,4 @@
 
 # Questão 02
 
-primeiras impressões sobre o curso da AWS Academy
+### Primeiras impressões sobre o curso da AWS Academy
