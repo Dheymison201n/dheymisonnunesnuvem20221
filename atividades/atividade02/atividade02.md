@@ -11,8 +11,6 @@
 
 ### Teste de Conhecimento do Módulo 1 - Visão geral dos conceitos de nuvem
 
-- Segue o link do repositório: https://github.com/Dheymison201n/dheymisonnunesnuvem20221
-
 # Questão 02
 
 ### Questões referente ao Módulo 01.
