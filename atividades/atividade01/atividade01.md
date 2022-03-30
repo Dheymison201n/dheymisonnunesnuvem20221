@@ -19,4 +19,4 @@
 
 - A AWS Academy possui excelentes laboratórios que permitem que os alunos tenham experiência prática em computação em nuvem de forma lhe permitir ganhar experiência com os serviços de nuvem AWS, em relação ao próprio sistema, chega a ser um pouco poluído a interface que poderia ser melhorada para ficar mais intuitiva.
 - O curso é otimo para estudantes que procuram um entendimento geral dos conceitos de computação em nuvem, independentemente de funções técnicas específicas. O curso provê uma visão geral detalhada dos conceitos de nuvem, e os principais serviços AWS.
-- Os módulos são apresentados de forma consistente para que o aluno siga uma sequência de aprendizado bem elaborada, conforme já apresentado o sistema possuí um layout um pouco retrô, mas o material é bem elaborado e aprendido pelo aluno.
+- Os módulos são apresentados de forma consistente para que o aluno siga uma sequência de aprendizado bem elaborada, conforme já apresentado o sistema possuí um layout um pouco retrô, mas o material é bem elaborado e apresentado ao aluno.
