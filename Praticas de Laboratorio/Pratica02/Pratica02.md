@@ -1,4 +1,4 @@
-# Atividade 02
+# Praticas 02
 
 ---
 
@@ -12,8 +12,11 @@
 ### Busque na web por plataformas para IaaS indicando:
 
 - Origem
+Amazon
 - Principais características
+serviço de armazenamento de objetos que oferece escalabilidade, disponibilidade de dados, segurança e performance.
 - Arquitetura
+
 - Plataformas de suporte / integração / ferramentas
 - Telas exemplos
 - Links / sites
