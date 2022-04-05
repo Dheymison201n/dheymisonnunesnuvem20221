@@ -17,7 +17,16 @@
 
 1. Quais são as seis principais vantagens da computação em nuvem?
 
+- Mais agilidade nas mudanças tecnológicas
+- Escalabilidade no uso dos serviços
+- Redução de custos com infraestrutura interna
+- Disponibilidade em todos os momentos, especialmente nos críticos
+- Maior segurança das informações
+- Gerenciamento do uso de recursos
+
 2. Quais são os três modelos de serviços de computação em nuvem? Cite um exemplo para cada modelo, seja de um serviço da AWS ou de outro provedor.
+
+Saas, PaaS e IaaS são as três principais modalidades dos serviços de cloud computing, sendo que cada formato tem características e aplicações próprias. As siglas indicam o modelo de serviço prestado na nuvem, sendo Software como Serviço (SaaS), Plataforma como um Serviço (PaaS) e Infraestrutura como Serviço (IaaS).
 
 3. Cite três serviços da AWS para cada categoria a seguir:
 
