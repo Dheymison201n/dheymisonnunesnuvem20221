@@ -30,10 +30,9 @@
 4. Quais as três principais maneiras de interagir com a AWS?
 
 5. Quais são as seis perspectivas do AWS Cloud Adoption Framework (AWS CAF)? Cite um stakeholder importante para cada perspectiva.
--Negócio:
-- Plataforma:
-- Maturidade:
-- Pessoas:
-- Processos:
-- Operações:
-- Segurança:
+- Negócio: A perspectiva de negócios ajuda a garantir que seus investimentos em nuvem acelerem suas ambições de transformação digital e resultados de negócios. As partes interessadas comuns incluem diretor executivo (CEO), diretor financeiro (CFO), diretor de operações (COO), diretor de informações (CIO) e diretor de tecnologia (CTO).
+- Plataforma: A perspectiva da plataforma ajuda você a criar uma plataforma de nuvem híbrida, escalável e de nível empresarial, modernizar as cargas de trabalho existentes e implementar novas soluções nativas da nuvem. As partes interessadas comuns incluem CTO, líderes de tecnologia, arquitetos e engenheiros.
+Governança: A perspectiva de Governança ajuda você a orquestrar suas iniciativas de nuvem enquanto maximiza os benefícios organizacionais e minimiza os riscos relacionados à transformação. As partes interessadas comuns incluem diretor de transformação, CIO, CTO, CFO, diretor de dados (CDO) e diretor de risco (CRO).
+- Pessoas: A perspectiva Pessoas serve como uma ponte entre tecnologia e negócios, acelerando a jornada para a nuvem para ajudar as organizações a evoluir mais rapidamente para uma cultura de crescimento contínuo, aprendizado e onde a mudança se torna normal, com foco na cultura, estrutura organizacional, liderança , e mão de obra. As partes interessadas comuns incluem CIO, COO, CTO, diretor de nuvem e líderes multifuncionais e corporativos.
+- Operações: A perspectiva de Operações ajuda a garantir que seus serviços de nuvem sejam entregues em um nível que atenda às necessidades de seus negócios. As partes interessadas comuns incluem líderes de infraestrutura e operações, engenheiros de confiabilidade do site e gerentes de serviços de tecnologia da informação.
+- Segurança: A perspectiva de segurança ajuda você a alcançar a confidencialidade, integridade e disponibilidade de seus dados e cargas de trabalho na nuvem. As partes interessadas comuns incluem o diretor de segurança da informação (CISO), diretor de conformidade (CCO), líderes de auditoria interna e arquitetos e engenheiros de segurança.
