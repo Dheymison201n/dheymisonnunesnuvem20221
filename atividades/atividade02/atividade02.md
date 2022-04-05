@@ -30,10 +30,10 @@
 4. Quais as três principais maneiras de interagir com a AWS?
 
 5. Quais são as seis perspectivas do AWS Cloud Adoption Framework (AWS CAF)? Cite um stakeholder importante para cada perspectiva.
-Negócio:
-Plataforma:
-Maturidade:
-Pessoas:
-Processos:
-Operações:
-Segurança:
+-Negócio:
+- Plataforma:
+- Maturidade:
+- Pessoas:
+- Processos:
+- Operações:
+- Segurança:
