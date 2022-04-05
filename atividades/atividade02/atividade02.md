@@ -22,8 +22,10 @@
 3. Cite três serviços da AWS para cada categoria a seguir:
 
 - Computação: O Amazon EC2 elimina a necessidade de investir em hardware inicialmente, portanto, você pode desenvolver e implantar aplicativos com mais rapidez. É possível usar o Amazon EC2 para executar quantos servidores virtuais forem necessários, configurar a segurança e as redes e gerenciar o armazenamento.
+
 - Armazenamento: O Amazon S3 armazena dados como objetos dentro de buckets. Um objeto é formado por um arquivo e, opcionalmente, os metadados que descrevem esse arquivo. Para armazenar um objeto no Amazon S3, carregue o arquivo que deseja armazenar em um bucket.
-- Banco de Dados:  Amazon RDS é um serviço de banco de dados relacional distribuído da Amazon Web Services. É um serviço da web executado "na nuvem" projetado para simplificar a configuração, operação e escalonamento de um banco de dados
+
+- Banco de Dados:  Amazon RDS é um serviço de banco de dados relacional distribuído da Amazon Web Services. É um serviço da web executado "na nuvem" projetado para simplificar a configuração, operação e escalonamento de um banco de dados para uso em aplicativos.
 
 4. Quais as três principais maneiras de interagir com a AWS?
 
