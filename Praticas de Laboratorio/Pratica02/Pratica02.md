@@ -48,4 +48,5 @@ Busque na web por plataformas para SaaS indicando:
 2. Descreva o modelo: Refere ao oferecimento de comunicação como serviço. Geralmente aborda o emprego da computação na nuvem para o uso de serviços ligados à telefonia. Isso inclui o uso de voz sobre IP (VoIP) e a distribuição automática de chamadas (ACD).
 3. Desenhe uma figura que represente o modelo (pode ser se onde ele se encaixa no modelo tradicional)
 ![image](https://user-images.githubusercontent.com/39660020/161836835-9b12ec76-b026-4890-944d-80acc99c9924.png)
-4.  Exemplifique seu uso: - Comunicações unificadas como serviço é uma categoria de mecanismos de entrega "como serviço" ou "nuvem" para comunicações corporativas.
+4.  Exemplifique seu uso: 
+- Comunicações unificadas como serviço é uma categoria de mecanismos de entrega "como serviço" ou "nuvem" para comunicações corporativas.
