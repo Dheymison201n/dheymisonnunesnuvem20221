@@ -38,6 +38,8 @@ Saas, PaaS e IaaS são as três principais modalidades dos serviços de cloud co
 
 4. Quais as três principais maneiras de interagir com a AWS?
 
+Console de gerenciamento da aws, interface de linha de comando da aws e os kits de desenvolvimento de software.
+
 5. Quais são as seis perspectivas do AWS Cloud Adoption Framework (AWS CAF)? Cite um stakeholder importante para cada perspectiva.
 - Negócio: A perspectiva de negócios ajuda a garantir que seus investimentos em nuvem acelerem suas ambições de transformação digital e resultados de negócios. As partes interessadas comuns incluem diretor executivo (CEO), diretor financeiro (CFO), diretor de operações (COO), diretor de informações (CIO) e diretor de tecnologia (CTO).
 - Plataforma: A perspectiva da plataforma ajuda você a criar uma plataforma de nuvem híbrida, escalável e de nível empresarial, modernizar as cargas de trabalho existentes e implementar novas soluções nativas da nuvem. As partes interessadas comuns incluem CTO, líderes de tecnologia, arquitetos e engenheiros.
