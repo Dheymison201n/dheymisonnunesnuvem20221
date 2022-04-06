@@ -28,6 +28,10 @@
 
 Saas, PaaS e IaaS são as três principais modalidades dos serviços de cloud computing, sendo que cada formato tem características e aplicações próprias. As siglas indicam o modelo de serviço prestado na nuvem, sendo Software como Serviço (SaaS), Plataforma como um Serviço (PaaS) e Infraestrutura como Serviço (IaaS).
 
+- SaaS: Google Apps e Microsoft Office 365, Nessas soluções, de fácil contratação e com poucos riscos para o cliente final, pessoas podem executar suítes de aplicativos de escritórios completas direto no navegador, possuindo uma experiência de uso semelhante à de um aplicativo desktop.
+- PaaS: Microsoft Azure e Amazon Web Services (AWS), nesses serviços elimina-se a necessidade de comprar, configurar e gerenciar recursos de hardware e software. A infraestrutura é invisível para o desenvolvedor, mas ele pode configurar as aplicações e, eventualmente, aspectos referentes ao ambiente utilizado por elas.
+- IaaS: DigitalOcean e Linode, esses serviços de infraestrutura em nuvem, conhecidos como infrastructure as a Service(IaaS), são compostos por recursos de computação automatizados e altamente escalonáveis. IaaS é totalmente self-service para acessar e monitorar computadores, rede, armazenamento e outros serviços.
+
 3. Cite três serviços da AWS para cada categoria a seguir:
 
 - Computação: O Amazon EC2 elimina a necessidade de investir em hardware inicialmente, portanto, você pode desenvolver e implantar aplicativos com mais rapidez. É possível usar o Amazon EC2 para executar quantos servidores virtuais forem necessários, configurar a segurança e as redes e gerenciar o armazenamento.
