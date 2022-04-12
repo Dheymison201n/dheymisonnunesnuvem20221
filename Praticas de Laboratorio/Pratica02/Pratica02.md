@@ -1,4 +1,4 @@
-# Praticas 02
+# Pratica 02
 
 ---
 
