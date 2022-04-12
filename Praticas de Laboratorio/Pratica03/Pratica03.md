@@ -1,3 +1,14 @@
+# Pratica 03
+
+---
+
+- ### Nome: Dheymison Nunes Alexandre
+- ### Matrícula: 472022
+  
+---
+
+## Questão 01
+
 Acesse a [**Calculadora de Preços da AWS**](https://calculator.aws/).
 
 1. Laboratório didático de uma universidade
