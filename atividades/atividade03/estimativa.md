@@ -1,1 +1,1 @@
-https://calculator.aws/#/estimate?id=e099a7c32f2479e6311332cf5402b39489f8b6dd
+https://calculator.aws/#/estimate?id=54c2d626e88541152b609c3d54d59d126498d479
