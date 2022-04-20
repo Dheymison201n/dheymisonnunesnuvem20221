@@ -39,6 +39,6 @@ Para cada categoria de serviços da AWS abaixo cite e defina três serviços. A 
 - Amazon Neptune: Aplicações que funcionam com conjuntos de dados altamente conectados usando um serviço de banco de dados gráfico, rápido e confiável.(https://aws.amazon.com/pt/neptune/?c=db&sec=srv)
 
 4. Rede e Entrega de Conteúdo
-- Amazon VPC: Oferece controle total sobre seu ambiente de redes virtual, incluindo posicionamento de recursos, conectividade e segurança. (https://aws.amazon.com/pt/vpc/)
+- Amazon VPC: Oferece controle total sobre seu ambiente de redes virtual, incluindo posicionamento de recursos, conectividade e segurança.  (https://aws.amazon.com/pt/vpc/)
 - Amazon API Gateway: Serviço gerenciado que permite que desenvolvedores criem, publiquem, mantenham, monitorem e protejam APIs em qualquer escala com facilidade. (https://aws.amazon.com/pt/api-gateway/)
 - AWS Client VPN: Solução de VPN de acesso remoto totalmente gerenciada usada por sua força de trabalho remota para acessar recursos com segurança na AWS e em sua rede local. (https://aws.amazon.com/pt/vpn/client-vpn/)
