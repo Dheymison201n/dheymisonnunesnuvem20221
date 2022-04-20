@@ -29,9 +29,9 @@ Para cada categoria de serviços da AWS abaixo cite e defina três serviços. A 
 - Amazon Elastic Block Store (EBS): Serviço de armazenamento de blocos de alta performance, fácil de usar, tanto para workloads com alta taxa de transferência de dados quanto com intenso consumo de transações em qualquer escala. (https://aws.amazon.com/pt/ebs/?c=s&sec=srv)
 
 2. Computação
--
--
--
+- Amazon EC2: Oferece controle detalhado para gerenciar infraestrutura com escolhas de processadores, armazenamento e redes. (https://aws.amazon.com/pt/ec2/)
+- AWS Lambda: Serviço de computação sem servidor e orientado a eventos que permite executar código para praticamente qualquer tipo de aplicação ou serviço de backend sem provisionar ou gerenciar servidores. (https://aws.amazon.com/pt/lambda/)
+- AWS Wavelength: Incorpora serviços de computação e armazenamento da AWS em redes 5G, fornecendo infraestrutura de computação de borda móvel para desenvolvimento, implantação e escalabilidade de aplicações de latência ultrabaixa. (https://aws.amazon.com/pt/wavelength/)
 
 3. Banco de Dados
 - Amazon Aurora: Banco de dados relacional compatível com MySQL e PostgreSQL e criado para a nuvem. Performance e disponibilidade de bancos de dados de categoria comercial por um décimo do custo. (https://aws.amazon.com/pt/rds/aurora/?c=db&sec=srv&aurora-whats-new.sort-by=item.additionalFields.postDateTime&aurora-whats-new.sort-order=desc)
