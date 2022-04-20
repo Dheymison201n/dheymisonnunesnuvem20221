@@ -15,7 +15,7 @@
 
 1. Quais os fatores que você deve considerar na seleção de uma região da AWS?
 
-- Não existe uma fórmula, mas você deve levar em consideração no mínimo estes três fatores: custos; latência de rede -> performance de acesso; recursos suportados.
+- Não existe uma fórmula, mas você deve levar em consideração no mínimo estes três fatores que seria o custos onde ele é o primeiro fator que se destaca, e a diferença entre as regiões é grande. latência/performance de acesso onde dependendo da performance exigida pelo seu sistema e a necessidade de ser melhor rankeado pelo Google, o melhor a fazer é deixá-los o mais próximo dos seus usuários e por ultimo recursos suportados este item é o menos importante e tende a ficar cada vez menos relevante dado que a Amazon está cada vez mais fazendo lançamentos simultâneos em todas as regiões. mas é sempre importante checar se a arquitetura que irá montar possui todos os componentes nas regiões que escolher.
 
 2. Acesse [Infraestrutura da AWS](https://aws.amazon.com/pt/about-aws/global-infrastructure/regions_az/) e liste, de todas as regiões disponíveis da AWS, quais tem um número de zonas de disponibilidade diferente de três. Cite o nome da região e a quantidade de zonas.
 
