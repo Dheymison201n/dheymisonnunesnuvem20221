@@ -10,7 +10,3 @@
 # Questão 01 
 
 ### Teste de Conhecimento do Módulo 9: Arquitetura de nuvem
-
-# Questão 02
-
-### 
